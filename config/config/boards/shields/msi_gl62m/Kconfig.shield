@@ -1,2 +1,0 @@
-config SHIELD_MSI_GL62M
-    def_bool $(shields_list_contains,msi_gl62m)
