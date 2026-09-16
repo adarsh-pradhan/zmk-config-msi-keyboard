@@ -1,0 +1,6 @@
+if SHIELD_MSI_GL62M
+
+config ZMK_KEYBOARD_NAME
+    default "MSI GL62M Keyboard"
+
+endif
